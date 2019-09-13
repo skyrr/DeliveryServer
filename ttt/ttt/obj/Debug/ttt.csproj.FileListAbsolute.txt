@@ -1,0 +1,7 @@
+C:\work\delivery\DeliveryServer\ttt\ttt\bin\Debug\ttt.exe.config
+C:\work\delivery\DeliveryServer\ttt\ttt\bin\Debug\ttt.exe
+C:\work\delivery\DeliveryServer\ttt\ttt\bin\Debug\ttt.pdb
+C:\work\delivery\DeliveryServer\ttt\ttt\obj\Debug\ttt.csprojAssemblyReference.cache
+C:\work\delivery\DeliveryServer\ttt\ttt\obj\Debug\ttt.csproj.CoreCompileInputs.cache
+C:\work\delivery\DeliveryServer\ttt\ttt\obj\Debug\ttt.exe
+C:\work\delivery\DeliveryServer\ttt\ttt\obj\Debug\ttt.pdb

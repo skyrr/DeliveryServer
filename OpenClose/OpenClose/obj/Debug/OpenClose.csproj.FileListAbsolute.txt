@@ -1,0 +1,7 @@
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\bin\Debug\OpenClose.exe.config
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\bin\Debug\OpenClose.exe
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\bin\Debug\OpenClose.pdb
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\obj\Debug\OpenClose.csprojAssemblyReference.cache
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\obj\Debug\OpenClose.csproj.CoreCompileInputs.cache
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\obj\Debug\OpenClose.exe
+C:\work\delivery\DeliveryServer\OpenClose\OpenClose\obj\Debug\OpenClose.pdb

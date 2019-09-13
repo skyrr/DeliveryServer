@@ -1,0 +1,7 @@
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\bin\Debug\ExceptionInTask.exe.config
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\bin\Debug\ExceptionInTask.exe
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\bin\Debug\ExceptionInTask.pdb
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\obj\Debug\ExceptionInTask.csprojAssemblyReference.cache
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\obj\Debug\ExceptionInTask.csproj.CoreCompileInputs.cache
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\obj\Debug\ExceptionInTask.exe
+C:\work\delivery\DeliveryServer\ExceptionInTask\ExceptionInTask\obj\Debug\ExceptionInTask.pdb

@@ -1,0 +1,7 @@
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\bin\Debug\MonitorLock.exe.config
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\bin\Debug\MonitorLock.exe
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\bin\Debug\MonitorLock.pdb
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\obj\Debug\MonitorLock.csprojAssemblyReference.cache
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\obj\Debug\MonitorLock.csproj.CoreCompileInputs.cache
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\obj\Debug\MonitorLock.exe
+C:\work\delivery\DeliveryServer\MonitorLock\MonitorLock\obj\Debug\MonitorLock.pdb

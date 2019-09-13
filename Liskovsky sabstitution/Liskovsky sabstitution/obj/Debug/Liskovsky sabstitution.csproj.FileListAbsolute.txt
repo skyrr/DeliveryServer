@@ -1,0 +1,7 @@
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\bin\Debug\Liskovsky sabstitution.exe.config
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\bin\Debug\Liskovsky sabstitution.exe
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\bin\Debug\Liskovsky sabstitution.pdb
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\obj\Debug\Liskovsky sabstitution.csprojAssemblyReference.cache
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\obj\Debug\Liskovsky sabstitution.csproj.CoreCompileInputs.cache
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\obj\Debug\Liskovsky sabstitution.exe
+C:\work\delivery\DeliveryServer\Liskovsky sabstitution\Liskovsky sabstitution\obj\Debug\Liskovsky sabstitution.pdb
